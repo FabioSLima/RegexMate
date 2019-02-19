@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexMate", "RegexMate\RegexMate.csproj", "{D13506B7-F399-42C7-A3CC-56B353761A3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexMate.Tests", "RegexMate.Tests\RegexMate.Tests.csproj", "{3C03A3E6-EF0A-421E-9EFA-E85FFE2EACDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D13506B7-F399-42C7-A3CC-56B353761A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13506B7-F399-42C7-A3CC-56B353761A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13506B7-F399-42C7-A3CC-56B353761A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13506B7-F399-42C7-A3CC-56B353761A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C03A3E6-EF0A-421E-9EFA-E85FFE2EACDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C03A3E6-EF0A-421E-9EFA-E85FFE2EACDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C03A3E6-EF0A-421E-9EFA-E85FFE2EACDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C03A3E6-EF0A-421E-9EFA-E85FFE2EACDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E35B344E-AE61-444F-AA8F-5C1C02DB8851}
+	EndGlobalSection
+EndGlobal
